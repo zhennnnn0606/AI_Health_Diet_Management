@@ -1,4 +1,4 @@
-﻿package com.health.diet.entity;
+package com.health.diet.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-﻿package com.health.diet.dto;
+package com.health.diet.dto;
 
 import com.google.gson.annotations.SerializedName;
 import java.util.List;

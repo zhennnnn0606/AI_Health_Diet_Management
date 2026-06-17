@@ -1,4 +1,4 @@
-﻿package com.health.diet.repository;
+package com.health.diet.repository;
 
 import com.health.diet.entity.Meal;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,4 +1,4 @@
-﻿package com.health.diet.service;
+package com.health.diet.service;
 
 import com.health.diet.dto.MealAnalysisResponse;
 import com.health.diet.entity.Meal;

@@ -1,4 +1,4 @@
-﻿package com.health.diet.controller;
+package com.health.diet.controller;
 
 import com.health.diet.dto.MealAnalysisRequest;
 import com.health.diet.dto.MealAnalysisResponse;

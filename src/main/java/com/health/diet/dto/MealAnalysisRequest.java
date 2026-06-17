@@ -1,4 +1,4 @@
-﻿package com.health.diet.dto;
+package com.health.diet.dto;
 
 public class MealAnalysisRequest {
     private String mealDescription;
